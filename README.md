@@ -2,7 +2,7 @@
 
 # Certified Self-Consistency: Statistical Guarantees and Test-Time Training for Reliable Reasoning in LLMs
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.16084)  [![Github](https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulaoak/certified_self_consistency) [![Website](https://img.shields.io/badge/🌐%20Project%20Website-000000?style=for-the-badge)](https://paulaoak.github.io/certified_self_consistency_website/)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.17472)  [![Github](https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulaoak/certified_self_consistency) [![Website](https://img.shields.io/badge/🌐%20Project%20Website-000000?style=for-the-badge)](https://paulaoak.github.io/certified_self_consistency_website/)
 
 
 </div>
@@ -125,7 +125,7 @@ If you find this helpful, please cite us!
 @article{PCEAD_certified,
   title={Certified Self-Consistency: Statistical Guarantees and Test-Time Training for Reliable Reasoning in LLMs},
   author={Paula Cordero-Encinar and Andrew B. Duncan},
-  journal={arXiv},
+  journal={arXiv:2510.17472},
   year={2025}
 }
 ```

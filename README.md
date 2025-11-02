@@ -4,6 +4,10 @@
 
 [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.17472)  [![Github](https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulaoak/certified_self_consistency) [![Website](https://img.shields.io/badge/🌐%20Project%20Website-000000?style=for-the-badge)](https://paulaoak.github.io/certified_self_consistency_website/)
 
+[![Wandb Log of AIME](https://img.shields.io/badge/Wandb%20Log%20of%20AIME-%2300C853?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=000000)](https://wandb.ai/oak-tree/CONDORCET-AIME)
+[![Wandb Log of AMC](https://img.shields.io/badge/Wandb%20Log%20of%20AMC-%2300B4AB?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=000000)](https://wandb.ai/oak-tree/CONDORCET-AMC)
+[![Wandb Log of MATH-500](https://img.shields.io/badge/Wandb%20Log%20of%20MATH--500-%235BC0EB?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=000000)](https://wandb.ai/oak-tree/CONDORCET-MATH-500)
+
 
 </div>
 
